@@ -6,6 +6,10 @@
 - rplidar -> `0.9.2`
 - numpy -> `1.24.4`
 
+<br>
+
+- example: `pip install rplidar==0.9.2`
+
 ---
 
 > MQTT Publish
