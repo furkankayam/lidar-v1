@@ -2,9 +2,9 @@ from rplidar import RPLidar, RPLidarException
 
 import numpy as np
 
-lidar = RPLidar('com8')
+lidar = RPLidar('/dev/ttyUSB0')
 
-lidar.__init__('com8', 256000, 3, None)
+lidar.__init__('/dev/ttyUSB0', 256000, 3, None)
 
 lidar.connect()
 
