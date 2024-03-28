@@ -8,6 +8,7 @@
 
 <br>
 
+- list: `pip list -l` 
 - example: `pip install rplidar==0.9.2`
 
 ---
